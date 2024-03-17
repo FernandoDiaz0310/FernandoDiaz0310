@@ -2,9 +2,7 @@
 
 ### ¡Bienvenidos! 👋
 
-<!--
-
-**FernandoDiaz0310/FernandoDiaz0310** Bienvenido a mi página en **GITHUB** es bastante bueno utilizar esta plataforma para **aspectos educativos.**
+Mi página en **GITHUB** es bastante bueno utilizar esta plataforma para **aspectos educativos.**
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 👯 Cibercrimen
 - 🤔 Conductas Antisociales en Internet
 - 💬 IA
--->
