@@ -1,5 +1,6 @@
-### Hi there 👋
+![Blue and Gold Minimalist Business Risk Management Presentation](https://github.com/FernandoDiaz0310/FernandoDiaz0310/assets/98220000/045b8014-7f2c-4f95-94c0-6e62888fa052)
 
+### Hi there 👋
 <!--
 **FernandoDiaz0310/FernandoDiaz0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
