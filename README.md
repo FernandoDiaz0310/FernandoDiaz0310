@@ -1,6 +1,6 @@
 ## ¡Bienvenidos! 👋
 
-![Blue and Gold Minimalist Business Risk Management Presentation](https://github.com/FernandoDiaz0310/FernandoDiaz0310/assets/98220000/045b8014-7f2c-4f95-94c0-6e62888fa052)
+![Blue and Gold Minimalist Business Risk Management Presentation](https://github.com/FernandoDiaz0310/FernandoDiaz0310/assets/98220000/4fb22dc4-5891-48a5-a8dd-562ed6234d65)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
