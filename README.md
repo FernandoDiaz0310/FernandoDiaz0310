@@ -1,6 +1,6 @@
 ### ¡Bienvenidos! 👋
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ![Blue and Gold Minimalist Business Risk Management Presentation](https://github.com/FernandoDiaz0310/FernandoDiaz0310/assets/98220000/4fb22dc4-5891-48a5-a8dd-562ed6234d65)
 
